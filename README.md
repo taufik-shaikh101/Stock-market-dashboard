@@ -98,3 +98,4 @@ Compare with Nifty/Sensex Index as a benchmark
 Add Forecasting visuals for predicting trends
 
 Enable Drill-through by Sector → Stock → Daily Performance
+emage link ==https://github.com/taufik-shaikh101/Stock-market-dashboard/blob/main/stock%20market%20dashboard.png
